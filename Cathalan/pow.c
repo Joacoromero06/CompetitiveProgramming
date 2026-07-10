@@ -36,8 +36,8 @@ ll multiply(int a, int b){
   //printf("multiply(x,0) = 0\n");
   return 0;
 }
-int main() {
+/*int main() {
   printf("\ncall to pow. %lld\n", pouu(3,4));
   return 0;
 }
-  
+ */ 
